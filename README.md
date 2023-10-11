@@ -3,7 +3,7 @@
 <!--
 **toncelli-j-neu/toncelli-j-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 -->
 
 - 🔭 I’m currently working on Fundies 1
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my other projects
 - 📫 How to reach me: toncelli.j@northeastern.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I make really good mac and cheese
+- ⚡ Fun fact: I make really good mac and cheese!
 
