@@ -4,6 +4,7 @@
 **toncelli-j-neu/toncelli-j-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Fundies 1
 - 🌱 I’m currently learning Racket and Python
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: toncelli.j@northeastern.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make really good mac and cheese
--->
+
